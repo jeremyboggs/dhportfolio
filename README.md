@@ -2,6 +2,12 @@ Hello! I'm Jeremy. I'm the Head of Research and Development for the Scholars' La
 
 ## Practicum
 
+![](codespeak.png)
+
+**Speaking in Code**
+
+Speaking in Code was a two-day unconference that brought developers and designers in DH together, to disucss the ways their tacit knowledge impacted DH scholarship and pedagogy.
+
 
 ## Coursework
 
